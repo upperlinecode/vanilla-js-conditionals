@@ -1,4 +1,4 @@
-# JavaScript Lesson 1.2 Template - Greeting Program
+# JavaScript Lesson 1.2 Code Along Template - Updated Greeting Program
 
 ### Welcome! 
 Instructions for cloning down this repository to an IDE (_coding environment_):
